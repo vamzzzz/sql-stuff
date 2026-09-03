@@ -1,7 +1,6 @@
 # MySQL SQL Notes
 
-A from-scratch MySQL 8.0+ course, rewritten from Oracle-based training
-notes and adapted end-to-end for MySQL. Every module shares a single
+A from-scratch MySQL 8.0+ courseware. Every module shares a single
 practice database (**`companydb`**) built around one consistent theme:
 **employees, departments, jobs, locations, and projects.**
 
